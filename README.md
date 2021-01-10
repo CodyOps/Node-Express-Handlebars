@@ -18,7 +18,7 @@ Node Express Handlebars Burger Application
 
 _Quick description about this project_
 
-The purpose of this application was to create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. Nodde and MySQL were used to query and route data in the application, and Handlebars was used to generate the HTML. This restaurant application will allow the user to input the names of burgers they would like to eat. The added burger name will appear in the application. All of the uneaten burgers will be in the waiting area on the left hand side. Once the user clicks the Devour it! button, the burger will be moved to the right hand side, in the eaten section. The application stores every burger into the database, regardless of eaten status.
+The purpose of this application was to create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. Node and MySQL were used to query and route data in the application, and Handlebars was used to generate the HTML. This restaurant application will allow the user to input the names of burgers they would like to eat. The added burger name will appear in the application. All of the uneaten burgers will be in the waiting area on the left hand side. Once the user clicks the Devour it! button, the burger will be moved to the right hand side, in the eaten section. The application stores every burger into the database, regardless of eaten status.
 
 ## User Story
 
