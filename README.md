@@ -40,6 +40,8 @@ _Photos of this Project:_
 
 _Video of this Project:_
 
+https://drive.google.com/file/d/1W-ZeA7jqh7YS7gqvag-528bLr-JVcdVv/view
+
 ## Technology
 
 The technologies that were used in this application are CSS, Node.js, Express.js, MySQL, Sequelize.js, Handlebars, homemade ORM, Github and Heroku.
